@@ -24,7 +24,7 @@ print(spis)
 
 
 
-# Вывести количество слов в предложении
+# Вывести количество слов в предложениии
 sentence = 'Мы приехали в гости'
 words_in_sentence = 0
 for words in sentence.split():
